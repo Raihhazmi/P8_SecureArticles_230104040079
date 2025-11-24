@@ -11,8 +11,13 @@
 </p>
 
 <p align="center">
-  <strong>Praktikum Web Service Engineering • Modul #8 (20251)</strong><br/>
+  <strong>Praktikum Web Service Engineering • Modul #8 (2025)</strong><br/>
+  <p align="center"
+    <strong>Dosen:</strong> Muhayat S.Ag.,M.I.T
+  </p>
+  <p align="center"
   <strong>Nama:</strong> Muhammad Raihan Azmi — <strong>NIM:</strong> 230104040079
+  </p>
 </p>
 
 ---
